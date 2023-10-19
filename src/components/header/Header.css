@@ -1,0 +1,140 @@
+/* div{
+    margin-bottom: 50px;
+} */
+
+.mainContainer {
+    width: 100%;
+    max-width: 1200px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.mainContainer4 {
+    display:flex;
+    justify-content: flex-end;
+    background-image: url("../../assets/newHeaderSample.png") ;
+   
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.headerContainer{
+    background-color: #337AB7;
+    color: white;
+    width: 21%;
+    margin-top: 56px;
+    margin-bottom: 48px;
+}
+
+.headerMatter{
+    padding: 70px 20px 70px 30px;
+}
+
+.headerHeading{
+    
+    font-size: 28px;
+    font-weight: 70;
+}
+
+.headerHeading span{
+    font-weight: 600;
+}
+
+.headerHeading p {
+    margin-top: 0px;
+}
+
+
+.headerLogin {
+    margin-top: 30px;
+    background-color: white;
+    margin-bottom: 32px;
+    padding: 23px 33px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-right: 277px;
+}
+
+.loginHead{
+    font-size: 30px;
+    font-weight: 100;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+.loginHead span{
+    font-weight: 700;
+}
+
+.smallHead{
+    font-weight: 500;
+    font-size: 11px;
+    margin-top: 0px;
+}
+
+.smallHead span{
+    color: rgb(209, 160, 0);
+}
+
+.email{
+    margin-top: 30px;
+
+}
+
+.email input{
+    width: 80%;
+    padding: 12px 20px;
+    background-color: #f1f1f1;
+    font-size: 15px;
+}
+
+.email label{
+   font-size: 16px;
+   font-weight: 200;
+    
+}
+
+.rememberMe{
+    margin-top: 5px;
+    display: flex;
+}
+
+.rememberMe input{
+   margin-left: 0px;
+   
+}
+
+input[type='checkbox'] {
+    accent-color: rgb(209, 160, 0);
+}
+
+.rememberMeText{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 10px;
+    font-weight: 400;
+    
+}
+
+.headerLogin button{
+    font-size: 15px;
+    margin-top: 35px;
+    width: 95%;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: rgb(209, 160, 0);
+    color: white;
+    border: none;
+}
+
+.headerLogin button:active { 
+    transform: scale(0.95); 
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24); 
+   
+} 

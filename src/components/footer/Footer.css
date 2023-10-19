@@ -1,0 +1,39 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    background: #09365C;
+
+}
+
+.footer-content{
+    width:80%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.sections{
+    display: flex;
+    color: white;
+    margin: 50px auto ;
+}
+
+.item{
+    width: 25%;
+}
+
+/* .item img{
+    background-color: white;
+} */
+
+.footerul {
+    list-style-type: none;
+    padding-left: 0%;
+  } 
+
+.footerimg {
+    max-width: 87px;
+} 
+
+.footerhead{
+    font-weight: bold;
+}

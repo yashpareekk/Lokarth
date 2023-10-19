@@ -1,0 +1,106 @@
+.comp2 {
+    display: flex;
+    justify-content: center;
+}
+
+.mainContainer {
+    display: flex;
+    flex-direction: column;
+    min-width: 98.1% !important;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.vote_image img {
+    width: 250px;
+    justify-content: center;
+    margin-top: -120px;
+}
+
+.lines {
+    margin-left: 0px;
+    margin-top: 14.1px;
+    width: 100%;
+}
+
+.blue {
+    background-color: #00509F;
+    height: 27px;
+}
+
+.orange {
+    background-color: #FF9D05;
+    height: 10px;
+}
+
+.flag {
+    display: flex
+}
+
+.know img {
+    padding-bottom: 3px;
+}
+
+.know {
+    color: var(--Primary-text, #1D2130);
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    padding-left: 250px;
+}
+
+.ngo {
+    color: var(--Primary-text, #1D2130);
+    font-family: Roboto;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    /* 54px */
+    padding-left: 250px;
+    width: 40%;
+
+}
+
+.text {
+    display: inline-flex;
+}
+
+.ngo p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.new_heading {
+    color: var(--Primary-text, #1D2130);
+    font-family: Roboto;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%;
+    /* 54px */
+    padding-top: 20px;
+
+}
+
+.matter1 {
+    color: rgba(29, 33, 48, 0.74);
+    text-align: justify;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+    /* 30px */
+    padding-left: 0px;
+    padding-right: 70px;
+    width: 37%;
+}
+
+.matter1 p {
+    margin-top: 0px;
+}
