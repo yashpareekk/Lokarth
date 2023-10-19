@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Lokarth/static/css/main.1fa3fbeb.css",
+    "main.js": "/Lokarth/static/js/main.c91fe708.js",
+    "static/media/newHeaderSample.png": "/Lokarth/static/media/newHeaderSample.d08401d0ed116f9b8262.png",
+    "static/media/laptop3.png": "/Lokarth/static/media/laptop3.8e467f996f5169c5fd7f.png",
+    "static/media/laptop2.png": "/Lokarth/static/media/laptop2.c55350f04ac3dbd895ea.png",
+    "static/media/laptop1.png": "/Lokarth/static/media/laptop1.97c7b09be08f5975c7f5.png",
+    "static/media/vote.png": "/Lokarth/static/media/vote.b1bf47dbe9c9ca532642.png",
+    "static/media/Vector.png": "/Lokarth/static/media/Vector.f8b25137bd837f56a4d9.png",
+    "static/media/Vector2.png": "/Lokarth/static/media/Vector2.de983af60e0887e27a93.png",
+    "static/media/Vector3.png": "/Lokarth/static/media/Vector3.9dff8b2e2b996d96c61f.png",
+    "static/media/Vector 4.png": "/Lokarth/static/media/Vector 4.6c04bf6fcd7a2be1f8fb.png",
+    "static/media/slick.svg": "/Lokarth/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Lokarth/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Lokarth/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Lokarth/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Lokarth/index.html",
+    "main.1fa3fbeb.css.map": "/Lokarth/static/css/main.1fa3fbeb.css.map",
+    "main.c91fe708.js.map": "/Lokarth/static/js/main.c91fe708.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fa3fbeb.css",
+    "static/js/main.c91fe708.js"
+  ]
+}
